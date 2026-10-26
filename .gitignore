@@ -1,0 +1,16 @@
+.venv/
+node_modules/
+dist/
+__pycache__/
+.pytest_cache/
+*.tsbuildinfo
+backend/data/
+backend/artifacts/*
+!backend/artifacts/.gitkeep
+!backend/artifacts/*.keras
+!backend/artifacts/*.json
+!backend/artifacts/samples/
+backend/artifacts/samples/*
+!backend/artifacts/samples/*.png
+.env
+.vercel/

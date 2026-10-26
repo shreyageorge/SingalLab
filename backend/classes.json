@@ -1,0 +1,260 @@
+[
+  {
+    "id": 0,
+    "name": "Speed limit (20 km/h)",
+    "category": "Speed limit",
+    "meaning": "Maximum permitted speed is 20 km/h."
+  },
+  {
+    "id": 1,
+    "name": "Speed limit (30 km/h)",
+    "category": "Speed limit",
+    "meaning": "Maximum permitted speed is 30 km/h."
+  },
+  {
+    "id": 2,
+    "name": "Speed limit (50 km/h)",
+    "category": "Speed limit",
+    "meaning": "Maximum permitted speed is 50 km/h."
+  },
+  {
+    "id": 3,
+    "name": "Speed limit (60 km/h)",
+    "category": "Speed limit",
+    "meaning": "Maximum permitted speed is 60 km/h."
+  },
+  {
+    "id": 4,
+    "name": "Speed limit (70 km/h)",
+    "category": "Speed limit",
+    "meaning": "Maximum permitted speed is 70 km/h."
+  },
+  {
+    "id": 5,
+    "name": "Speed limit (80 km/h)",
+    "category": "Speed limit",
+    "meaning": "Maximum permitted speed is 80 km/h."
+  },
+  {
+    "id": 6,
+    "name": "End of speed limit (80 km/h)",
+    "category": "Speed limit",
+    "meaning": "The 80 km/h speed restriction ends here; other applicable limits still apply."
+  },
+  {
+    "id": 7,
+    "name": "Speed limit (100 km/h)",
+    "category": "Speed limit",
+    "meaning": "Maximum permitted speed is 100 km/h."
+  },
+  {
+    "id": 8,
+    "name": "Speed limit (120 km/h)",
+    "category": "Speed limit",
+    "meaning": "Maximum permitted speed is 120 km/h."
+  },
+  {
+    "id": 9,
+    "name": "No passing",
+    "category": "Prohibition",
+    "meaning": "Overtaking motor vehicles is prohibited."
+  },
+  {
+    "id": 10,
+    "name": "No passing for vehicles over 3.5 metric tons",
+    "category": "Prohibition",
+    "meaning": "Vehicles over 3.5 metric tons must not overtake motor vehicles."
+  },
+  {
+    "id": 11,
+    "name": "Right-of-way at the next intersection",
+    "category": "Priority",
+    "meaning": "You have priority at the next intersection; proceed with caution."
+  },
+  {
+    "id": 12,
+    "name": "Priority road",
+    "category": "Priority",
+    "meaning": "Traffic on this road has priority at intersections until the priority status ends."
+  },
+  {
+    "id": 13,
+    "name": "Yield",
+    "category": "Priority",
+    "meaning": "Give way to traffic on the intersecting road; stop if necessary."
+  },
+  {
+    "id": 14,
+    "name": "Stop",
+    "category": "Priority",
+    "meaning": "Come to a complete stop and give way before proceeding safely."
+  },
+  {
+    "id": 15,
+    "name": "No vehicles",
+    "category": "Prohibition",
+    "meaning": "Vehicles are prohibited from entering this road."
+  },
+  {
+    "id": 16,
+    "name": "Vehicles over 3.5 metric tons prohibited",
+    "category": "Prohibition",
+    "meaning": "Vehicles over 3.5 metric tons are prohibited from this road."
+  },
+  {
+    "id": 17,
+    "name": "No entry",
+    "category": "Prohibition",
+    "meaning": "Entry is prohibited from this direction."
+  },
+  {
+    "id": 18,
+    "name": "General caution",
+    "category": "Warning",
+    "meaning": "An unspecified hazard is ahead; slow down and assess conditions."
+  },
+  {
+    "id": 19,
+    "name": "Dangerous curve to the left",
+    "category": "Warning",
+    "meaning": "A dangerous bend to the left is ahead."
+  },
+  {
+    "id": 20,
+    "name": "Dangerous curve to the right",
+    "category": "Warning",
+    "meaning": "A dangerous bend to the right is ahead."
+  },
+  {
+    "id": 21,
+    "name": "Double curve",
+    "category": "Warning",
+    "meaning": "A series of bends is ahead; approach with caution."
+  },
+  {
+    "id": 22,
+    "name": "Bumpy road",
+    "category": "Warning",
+    "meaning": "An uneven road surface is ahead."
+  },
+  {
+    "id": 23,
+    "name": "Slippery road",
+    "category": "Warning",
+    "meaning": "The road surface may be slippery; reduce speed and avoid sudden inputs."
+  },
+  {
+    "id": 24,
+    "name": "Road narrows on the right",
+    "category": "Warning",
+    "meaning": "The road becomes narrower on the right."
+  },
+  {
+    "id": 25,
+    "name": "Road work",
+    "category": "Warning",
+    "meaning": "Road construction or maintenance is ahead."
+  },
+  {
+    "id": 26,
+    "name": "Traffic signals",
+    "category": "Warning",
+    "meaning": "Traffic lights control the road ahead."
+  },
+  {
+    "id": 27,
+    "name": "Pedestrians",
+    "category": "Warning",
+    "meaning": "Pedestrians may be on or crossing the road ahead."
+  },
+  {
+    "id": 28,
+    "name": "Children crossing",
+    "category": "Warning",
+    "meaning": "Children may cross the road ahead, often near a school or play area."
+  },
+  {
+    "id": 29,
+    "name": "Bicycles crossing",
+    "category": "Warning",
+    "meaning": "Cyclists may cross or enter the road ahead."
+  },
+  {
+    "id": 30,
+    "name": "Beware of ice/snow",
+    "category": "Warning",
+    "meaning": "Ice or snow may make the road slippery."
+  },
+  {
+    "id": 31,
+    "name": "Wild animals crossing",
+    "category": "Warning",
+    "meaning": "Wild animals may cross the road ahead."
+  },
+  {
+    "id": 32,
+    "name": "End of all speed and passing limits",
+    "category": "Prohibition",
+    "meaning": "Previously imposed speed and overtaking restrictions end."
+  },
+  {
+    "id": 33,
+    "name": "Turn right ahead",
+    "category": "Direction",
+    "meaning": "Traffic must turn right ahead."
+  },
+  {
+    "id": 34,
+    "name": "Turn left ahead",
+    "category": "Direction",
+    "meaning": "Traffic must turn left ahead."
+  },
+  {
+    "id": 35,
+    "name": "Ahead only",
+    "category": "Direction",
+    "meaning": "Traffic must continue straight ahead."
+  },
+  {
+    "id": 36,
+    "name": "Go straight or right",
+    "category": "Direction",
+    "meaning": "Only straight-ahead or right-turn movements are permitted."
+  },
+  {
+    "id": 37,
+    "name": "Go straight or left",
+    "category": "Direction",
+    "meaning": "Only straight-ahead or left-turn movements are permitted."
+  },
+  {
+    "id": 38,
+    "name": "Keep right",
+    "category": "Direction",
+    "meaning": "Pass the obstruction on its right side."
+  },
+  {
+    "id": 39,
+    "name": "Keep left",
+    "category": "Direction",
+    "meaning": "Pass the obstruction on its left side."
+  },
+  {
+    "id": 40,
+    "name": "Roundabout mandatory",
+    "category": "Direction",
+    "meaning": "Follow the mandatory circulating direction at the roundabout."
+  },
+  {
+    "id": 41,
+    "name": "End of no passing",
+    "category": "Prohibition",
+    "meaning": "The restriction on overtaking ends."
+  },
+  {
+    "id": 42,
+    "name": "End of no passing by vehicles over 3.5 metric tons",
+    "category": "Prohibition",
+    "meaning": "The overtaking restriction for vehicles over 3.5 metric tons ends."
+  }
+]

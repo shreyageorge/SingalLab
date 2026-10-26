@@ -1,0 +1,6 @@
+# Hosted educational API: no model or TensorFlow is currently bundled.
+# Full local training dependencies remain in backend/requirements.txt.
+Flask>=3.1,<4
+flask-cors>=5,<7
+numpy>=1.26,<3
+Pillow>=11,<13

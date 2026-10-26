@@ -1,0 +1,6 @@
+# Optional lightweight installation for exploring the site without ML training.
+Flask>=3.1,<4
+flask-cors>=5,<7
+numpy>=1.26,<3
+Pillow>=11,<13
+scipy>=1.13,<2
